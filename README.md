@@ -30,22 +30,22 @@ To perform a detailed analysis of the Indian EV and hybrid vehicle market using 
 
 𝑹𝒆𝒔𝒖𝒍𝒕𝒔 & 𝑲𝒆𝒚 𝑰𝒏𝒔𝒊𝒈𝒉𝒕𝒔:
 
-Top EV 2-Wheeler Makers (2023–2024):
+1. Top EV 2-Wheeler Makers (2023–2024):
 OLA Electric, TVS, and Ather emerged as the top-performing manufacturers, dominating the 2-wheeler EV segment.
 
-Lowest Performing 2-Wheeler Makers:
+2. Lowest Performing 2-Wheeler Makers:
 Battre Electric, Jitendra, and Kinetic Green were identified as the bottom 3 performers, indicating areas with potential performance or market-fit issues.
 
-Top States by EV Penetration (2-Wheelers):
+3. Top States by EV Penetration (2-Wheelers):
 Goa, Karnataka, and Delhi led the nation in 2-wheeler EV penetration, suggesting high adoption and readiness for further expansion.
 
-Top States by EV Penetration (4-Wheelers):
+4. Top States by EV Penetration (4-Wheelers):
 Goa, Delhi, and Kerala had the highest 4-wheeler EV penetration, signaling strong demand for premium EVs.
 
-Top 5 Makers in 4-Wheeler EV Sales (Overall):
+5. Top 5 Makers in 4-Wheeler EV Sales (Overall):
 Tata Motors, Mahindra & Mahindra, BYD India, MG Motor, and Hyundai Motor consistently led in sales — indicating brand dominance and consumer trust.
 
-Peak Sales Timing & Trends:
+6. Peak Sales Timing & Trends:
 Q4, especially March, showed the highest EV sales volume, critical for planning inventory, campaigns, and manpower allocation.
 
 
