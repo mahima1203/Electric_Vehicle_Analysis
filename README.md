@@ -16,15 +16,15 @@ To perform a detailed analysis of the Indian EV and hybrid vehicle market using 
 
 𝑨𝒑𝒑𝒓𝒐𝒂𝒄𝒉 :
 
--> Performed initial data exploration to understand schema and identify missing or inconsistent entries.
+-> Explored the dataset to understand its structure, spot inconsistencies, and identify missing values.
 
--> Conducted data cleaning and transformation to ensure consistency across fiscal years and vehicle categories.
+-> Cleaned and transformed data to ensure consistency across fiscal years and vehicle categories.
 
--> Utilized Common Table Expressions (CTEs) for modular, readable queries during complex aggregations.
+-> Used Common Table Expressions (CTEs) to simplify complex aggregations and keep queries modular.
 
--> Replaced repeated JOIN operations with Views for performance optimization and cleaner query design.
+-> Optimized performance by replacing repeated JOIN operations with Views, making queries cleaner and more efficient.
 
--> Applied window functions and aggregation logic to derive insights like top-performing states, sales trends, and CAGR.
+-> Applied window functions and aggregation techniques to analyze key metrics like top-performing states, sales trends, and CAGR.
 
 -> Validated outputs through cross-checking totals.
 
